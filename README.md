@@ -1,1 +1,1 @@
-# spacetime model is based on recommendation.
+# Recommendation system based on space-time model.
